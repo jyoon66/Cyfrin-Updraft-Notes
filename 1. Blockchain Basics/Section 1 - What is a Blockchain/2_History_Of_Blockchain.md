@@ -54,5 +54,5 @@ Consider the difference between a traditional agreement and a smart contract:
 ### Bitcoin Vs. Ethereum: Calculator vs. Computer
 
 A simple analogy helps clarify the fundamental difference between these two pioneering blockchains:
-* **Bitcoin is like a calculator.** It is designed with intentional simplicity to do one thing exceptionally well: serve as a secure, decentralized store of value and medium of exchange. Its functionality is deliberately limited (it is **Turin incomplete**) to maximize security and reliability.
+* **Bitcoin is like a calculator.** It is designed with intentional simplicity to do one thing exceptionally well: serve as a secure, decentralized store of value and medium of exchange. Its functionality is deliberately limited (it is **Turing incomplete**) to maximize security and reliability.
 * **Ethereum is like a world computer.** It can do everything Bitcoin can do, but its purpose is far broader. As a **Turing complete** system, it is designed to be a flexible platform on which developers can build and run a vast range of unstoppable applications and complex agreements using smart contracts.
